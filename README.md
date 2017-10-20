@@ -1,1 +1,1 @@
-#GraphQL First Application
+# GraphQL First Application
