@@ -10,5 +10,6 @@ app.use('/graphql', expressGraphQL({
 }))
 
 app.listen(4000, () => {
-  console.log('listening')
+  console.log('listening on localhost:4000')
+  console.log('You can start running json-server in another terminal by running: "npm run josn:server"')
 })
